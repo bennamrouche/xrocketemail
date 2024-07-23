@@ -22,7 +22,7 @@ Installation
   # user 
      Clone the repository from [GitHub URL] or download the ZIP file.
      uzip bin/XRoecketEmail.zip
-      java -jar  XRoecketEmail.zip
+      java -jar  XRoecketEmail.jar
 # Screenshots
 <img src="ScreenShot.png" alt="Alt Text" width="600" height="400">
 
