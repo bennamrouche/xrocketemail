@@ -7,7 +7,7 @@ Overview
 This Java application allows users to send emails to multiple recipients simultaneously
 
 Requirements
-  # Devloper 
+  # Developer 
     Java Development Kit (JDK) 17 or higher
     NetBeans IDE (or any Java IDE of your choice)
     Internet connection for sending emails
@@ -15,7 +15,7 @@ Requirements
     Java JRE  17 or higher
 
 Installation
-  # Devloper 
+  # Developer 
     Clone the repository from [GitHub URL] or download the ZIP file.
     Open the project in NetBeans IDE.
     Build the project to resolve dependencies.
