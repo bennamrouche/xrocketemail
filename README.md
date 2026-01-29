@@ -1,4 +1,4 @@
-<img src="src/com/alphaben/xrocketemail/src/icon.png" alt="Alt Text" width="250" height="250">
+<img src="src/resources/icon.png" alt="Alt Text" width="250" height="250">
 
 # XRocket Email Tool for Sending Emails to Multiple Users
 
